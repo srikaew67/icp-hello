@@ -1,4 +1,5 @@
-import Debug "mo:base/Array";
+import Array "mo:base/Array";
+
 actor {
 
   // State: An array to store submitted names
